@@ -1,5 +1,3 @@
-# MCP23017_Library
-Arduino Library for MCP23017
 # CustomMCP23017 Library
 
 A lightweight Arduino library to control the MCP23017 16-bit GPIO expander over I2C using the `Wire` library. 
